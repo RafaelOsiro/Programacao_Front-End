@@ -1,0 +1,13 @@
+
+.founderAlignment {
+  float: right;
+  margin-left: 50px;
+}
+
+.founderImage {
+  border-radius: 10px;
+}
+
+.founderText {
+  text-align: center;
+}
