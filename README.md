@@ -7,7 +7,7 @@ DISCENTE: RAFAEL RIKI OGAWA OSIRO
 </pre>
 
 
-# PROJETO 1 - Front END
+# PROJETO 1 - Front-End
 
 ## Objetivo específico
 <p style="text-align: justify">
